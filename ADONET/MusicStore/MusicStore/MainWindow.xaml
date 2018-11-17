@@ -1,0 +1,27 @@
+﻿<Window x:Class="MusicStore.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MusicStore"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ComboBox x:Name="GenreComboBox" HorizontalAlignment="Left" Margin="275,102,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="GenreComboBox_OnSelectionChanged">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Name}"/>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <DataGrid x:Name="albumDataGrid" AutoGenerateColumns="False" HorizontalAlignment="Left" Margin="70,130,0,0" VerticalAlignment="Top" MinHeight="200" MinWidth="450">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Title" Width="150" Binding="{Binding Path=Title, Mode=OneWay}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Artist" Width="150" Binding="{Binding Path=Artist, Mode=OneWay}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Price" Width="150" Binding="{Binding Path=Price, Mode=OneWay}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

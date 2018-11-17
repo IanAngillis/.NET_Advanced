@@ -1,0 +1,28 @@
+﻿<Window x:Class="Oefening_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oefening_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        
+            <TextBox>United States Presidents</TextBox>
+        <ScrollViewer>
+            <ListBox x:Name="PresidentsListBox" Height="200" SelectionChanged="PresidentsListBox_OnSelectionChanged">
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel IsItemsHost="True" />
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Image Margin="10" Width="200" Height="auto" Source="{Binding ImageUrl}"></Image>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+              
+            </ListBox>
+        </ScrollViewer>
+    </Grid>
+</Window>

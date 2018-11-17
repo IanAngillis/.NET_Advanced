@@ -1,0 +1,48 @@
+﻿<Window x:Class="Oefening_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oefening_4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style x:Key="buttonStyle" TargetType="Button">
+            <Setter Property="Background" Value="GreenYellow"></Setter>
+            <Setter Property="Padding" Value="10"></Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Button x:Name="VergrootButton" Content="Vergroot" Style="{StaticResource buttonStyle}" HorizontalAlignment="Left" VerticalAlignment="Top" Click="VergrootButton_OnClick"></Button>
+        <Button x:Name="VerkleinButton" Content="Verklein" Style="{StaticResource buttonStyle}" HorizontalAlignment="Right" VerticalAlignment="Top" Click="VerkleinButton_OnClick"></Button>
+        <WrapPanel x:Name="buttonWrapPanel" Width="350" ItemWidth="80" ItemHeight="auto" HorizontalAlignment="center" VerticalAlignment="center" Background="red">
+            <Button Content="Alpha" Margin="2.5"/>
+            <Button Content="Bravo" Margin="2.5"/>
+            <Button Content="Charlie" Margin="2.5"/>
+            <Button Content="Dallas" Margin="2.5"/>
+            <Button Content="Eddie" Margin="2.5"/>
+            <Button Content="Fred" Margin="2.5"/>
+            <Button Content="Game" Margin="2.5"/>
+            <Button Content="Hallo" Margin="2.5"/>
+            <Button Content="Ice" Margin="2.5"/>
+            <Button Content="Jimmy" Margin="2.5"/>
+            <Button Content="Karin" Margin="2.5"/>
+            <Button Content="Lolly" Margin="2.5"/>
+            <Button Content="Monster" Margin="2.5"/>
+            <Button Content="Nooit" Margin="2.5"/>
+            <Button Content="Opera" Margin="2.5"/>
+            <Button Content="Perfect" Margin="2.5"/>
+            <Button Content="Quick" Margin="2.5"/>
+            <Button Content="Radio" Margin="2.5"/>
+            <Button Content="Sint" Margin="2.5"/>
+            <Button Content="Theo" Margin="2.5"/>
+            <Button Content="Uurwerk" Margin="2.5"/>
+            <Button Content="Viktor" Margin="2.5"/>
+            <Button Content="Waterval" Margin="2.5"/>
+            <Button Content="Xaml" Margin="2.5"/>
+            <Button Content="Yoeri" Margin="2.5"/>
+            <Button Content="Zebra" Margin="2.5"/>
+        </WrapPanel>
+        <TextBlock Text="Vergroot en verklein de buttons" VerticalAlignment="Bottom" TextAlignment="Center" Background="Aqua" Padding="7"/>
+    </Grid>
+</Window>

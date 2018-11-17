@@ -1,0 +1,6 @@
+C:\Users\Eigenaar\workspaces\NET\ADONET\wpfDisplayInvoicesDue - Start solution\Payables.Data\bin\Debug\Payables.Data.dll
+C:\Users\Eigenaar\workspaces\NET\ADONET\wpfDisplayInvoicesDue - Start solution\Payables.Data\bin\Debug\Payables.Data.pdb
+C:\Users\Eigenaar\workspaces\NET\ADONET\wpfDisplayInvoicesDue - Start solution\Payables.Data\obj\Debug\Payables.Data.csprojAssemblyReference.cache
+C:\Users\Eigenaar\workspaces\NET\ADONET\wpfDisplayInvoicesDue - Start solution\Payables.Data\obj\Debug\Payables.Data.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\workspaces\NET\ADONET\wpfDisplayInvoicesDue - Start solution\Payables.Data\obj\Debug\Payables.Data.dll
+C:\Users\Eigenaar\workspaces\NET\ADONET\wpfDisplayInvoicesDue - Start solution\Payables.Data\obj\Debug\Payables.Data.pdb

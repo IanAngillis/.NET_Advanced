@@ -1,0 +1,15 @@
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\DataBinding\DataBinding_Oefeningen\Oefening_3\bin\Debug\Oefening_3.exe.config
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\DataBinding\DataBinding_Oefeningen\Oefening_3\bin\Debug\Oefening_3.exe
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\DataBinding\DataBinding_Oefeningen\Oefening_3\bin\Debug\Oefening_3.pdb
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\DataBinding\DataBinding_Oefeningen\Oefening_3\obj\Debug\Oefening_3.csprojAssemblyReference.cache
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\DataBinding\DataBinding_Oefeningen\Oefening_3\obj\Debug\MainWindow.g.cs
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\DataBinding\DataBinding_Oefeningen\Oefening_3\obj\Debug\App.g.cs
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\DataBinding\DataBinding_Oefeningen\Oefening_3\obj\Debug\Oefening_3_MarkupCompile.cache
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\DataBinding\DataBinding_Oefeningen\Oefening_3\obj\Debug\Oefening_3_MarkupCompile.lref
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\DataBinding\DataBinding_Oefeningen\Oefening_3\obj\Debug\MainWindow.baml
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\DataBinding\DataBinding_Oefeningen\Oefening_3\obj\Debug\Oefening_3.g.resources
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\DataBinding\DataBinding_Oefeningen\Oefening_3\obj\Debug\Oefening_3.Properties.Resources.resources
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\DataBinding\DataBinding_Oefeningen\Oefening_3\obj\Debug\Oefening_3.csproj.GenerateResource.cache
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\DataBinding\DataBinding_Oefeningen\Oefening_3\obj\Debug\Oefening_3.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\DataBinding\DataBinding_Oefeningen\Oefening_3\obj\Debug\Oefening_3.exe
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\DataBinding\DataBinding_Oefeningen\Oefening_3\obj\Debug\Oefening_3.pdb

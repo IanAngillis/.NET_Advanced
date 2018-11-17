@@ -1,0 +1,7 @@
+C:\Users\Eigenaar\workspaces\NET\Week4TestExample\console\console\bin\Debug\console.exe.config
+C:\Users\Eigenaar\workspaces\NET\Week4TestExample\console\console\bin\Debug\console.exe
+C:\Users\Eigenaar\workspaces\NET\Week4TestExample\console\console\bin\Debug\console.pdb
+C:\Users\Eigenaar\workspaces\NET\Week4TestExample\console\console\obj\Debug\console.csprojAssemblyReference.cache
+C:\Users\Eigenaar\workspaces\NET\Week4TestExample\console\console\obj\Debug\console.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\workspaces\NET\Week4TestExample\console\console\obj\Debug\console.exe
+C:\Users\Eigenaar\workspaces\NET\Week4TestExample\console\console\obj\Debug\console.pdb

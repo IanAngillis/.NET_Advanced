@@ -1,0 +1,27 @@
+﻿<Window x:Class="Oefening_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oefening_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Height="225" VerticalAlignment="top">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" ></RowDefinition>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition ></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" Padding="5">Naam:</TextBlock>
+        <TextBox Grid.Row="0" Grid.Column="1" Margin="2"></TextBox>
+        <TextBlock Grid.Row="1" Grid.Column="0" Padding="5">Adres:</TextBlock>
+        <TextBox Grid.Row="1" Grid.Column="1" Margin="2"></TextBox>
+        <TextBlock Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" Padding="5">Functie:</TextBlock>
+        <TextBox Grid.Row="2" Grid.Column="1" Margin="2"></TextBox>
+    </Grid>
+</Window>

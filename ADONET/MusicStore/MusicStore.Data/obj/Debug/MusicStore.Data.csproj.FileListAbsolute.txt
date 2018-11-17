@@ -1,0 +1,6 @@
+C:\Users\Eigenaar\workspaces\NET\ADONET\MusicStore\MusicStore.Data\bin\Debug\MusicStore.Data.dll
+C:\Users\Eigenaar\workspaces\NET\ADONET\MusicStore\MusicStore.Data\bin\Debug\MusicStore.Data.pdb
+C:\Users\Eigenaar\workspaces\NET\ADONET\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.csprojAssemblyReference.cache
+C:\Users\Eigenaar\workspaces\NET\ADONET\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\workspaces\NET\ADONET\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.dll
+C:\Users\Eigenaar\workspaces\NET\ADONET\MusicStore\MusicStore.Data\obj\Debug\MusicStore.Data.pdb

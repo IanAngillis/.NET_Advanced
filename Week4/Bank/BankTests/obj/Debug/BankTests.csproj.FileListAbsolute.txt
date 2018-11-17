@@ -1,0 +1,13 @@
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week4\Bank\BankTests\bin\Debug\BankTests.dll
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week4\Bank\BankTests\bin\Debug\BankTests.pdb
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week4\Bank\BankTests\bin\Debug\Bank.exe
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week4\Bank\BankTests\bin\Debug\nunit.framework.dll
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week4\Bank\BankTests\bin\Debug\Bank.pdb
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week4\Bank\BankTests\bin\Debug\Bank.exe.config
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week4\Bank\BankTests\bin\Debug\nunit.framework.pdb
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week4\Bank\BankTests\bin\Debug\nunit.framework.xml
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week4\Bank\BankTests\obj\Debug\BankTests.csprojAssemblyReference.cache
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week4\Bank\BankTests\obj\Debug\BankTests.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week4\Bank\BankTests\obj\Debug\BankTests.csproj.CopyComplete
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week4\Bank\BankTests\obj\Debug\BankTests.dll
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week4\Bank\BankTests\obj\Debug\BankTests.pdb

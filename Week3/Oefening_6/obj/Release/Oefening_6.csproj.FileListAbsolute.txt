@@ -1,0 +1,14 @@
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week3\Oefening_6\bin\Release\Oefening_6.exe.config
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week3\Oefening_6\bin\Release\Oefening_6.exe
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week3\Oefening_6\bin\Release\Oefening_6.pdb
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week3\Oefening_6\obj\Release\MainWindow.g.cs
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week3\Oefening_6\obj\Release\App.g.cs
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week3\Oefening_6\obj\Release\Oefening_6_MarkupCompile.cache
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week3\Oefening_6\obj\Release\Oefening_6_MarkupCompile.lref
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week3\Oefening_6\obj\Release\MainWindow.baml
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week3\Oefening_6\obj\Release\Oefening_6.g.resources
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week3\Oefening_6\obj\Release\Oefening_6.Properties.Resources.resources
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week3\Oefening_6\obj\Release\Oefening_6.csproj.GenerateResource.cache
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week3\Oefening_6\obj\Release\Oefening_6.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week3\Oefening_6\obj\Release\Oefening_6.exe
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\Week3\Oefening_6\obj\Release\Oefening_6.pdb
