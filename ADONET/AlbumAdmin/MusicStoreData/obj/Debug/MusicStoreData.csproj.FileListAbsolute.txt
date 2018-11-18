@@ -4,3 +4,9 @@ C:\Users\Eigenaar\source\repos\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreDat
 C:\Users\Eigenaar\source\repos\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.dll
 C:\Users\Eigenaar\source\repos\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.pdb
 C:\Users\Eigenaar\source\repos\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.csprojAssemblyReference.cache
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\ADONET\AlbumAdmin\MusicStoreData\bin\Debug\MusicStoreData.dll
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\ADONET\AlbumAdmin\MusicStoreData\bin\Debug\MusicStoreData.pdb
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\ADONET\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.csprojAssemblyReference.cache
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\ADONET\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\ADONET\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.dll
+C:\Users\Eigenaar\workspaces\NET\Oefeningen_Net_Advanced\ADONET\AlbumAdmin\MusicStoreData\obj\Debug\MusicStoreData.pdb
