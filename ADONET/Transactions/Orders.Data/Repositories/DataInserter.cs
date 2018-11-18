@@ -50,12 +50,8 @@ namespace Orders.Data.Repositories
                 orderCommand.Parameters.Add(new SqlParameter("@total", order.Total));
 
                 orderResult = orderCommand.ExecuteNonQuery();
-                int fuck =(int) orderId.Value;
-                Console.WriteLine(orderResult + "");
-                Console.WriteLine(fuck + "");
-                //TODO
 
-                orderDetailCommand.Parameters.Add(new SqlParameter("@orderId", fuck));
+                orderDetailCommand.Parameters.Add(new SqlParameter("@orderId", orderId.Value));
                 orderDetailCommand.Parameters.Add(new SqlParameter("@albumId", orderDetail.AlbumId));
                 orderDetailCommand.Parameters.Add(new SqlParameter("@quantity", orderDetail.Quantity));
                 orderDetailCommand.Parameters.Add(new SqlParameter("@unitPrice", orderDetail.UnitPrice));
